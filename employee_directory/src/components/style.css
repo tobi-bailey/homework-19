@@ -3,22 +3,22 @@ h1 {
     padding: 20px;
 }
 
-table {
+.employees {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     border-collapse: collapse;
     width: 100%;
   }
   
-  td, th {
+  .employees td, th {
     border: 1px solid #ddd;
     padding: 8px;
   }
   
-  tr:nth-child(even){background-color: #f2f2f2;}
+ .employees tr:nth-child(even){background-color: #f2f2f2;}
   
-  tr:hover {background-color: #ddd;}
+ .employees tr:hover {background-color: #ddd;}
   
-  th {
+ .employees th {
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: center;
@@ -26,7 +26,7 @@ table {
     color: white;
   }
 
-  td {
+.employees td {
       text-align: center;
   }
 

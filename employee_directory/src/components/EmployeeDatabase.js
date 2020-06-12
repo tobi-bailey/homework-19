@@ -20,7 +20,7 @@ function EmployeeDatabase() {
   return (
     <div>
       <h1>Dunder Mifflin Employee Database</h1>
-      <table>
+      <table className="employees">
         <thead>
           <tr>
             <th>First Name</th>
