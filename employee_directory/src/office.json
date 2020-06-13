@@ -1,0 +1,82 @@
+[
+    {
+      "id": 1,
+      "first name": "Michael",
+      "last name": "Scott",
+      "occupation": "Regional Manager",
+      "image":
+        "https://vignette.wikia.nocookie.net/theoffice/images/b/be/Character_-_MichaelScott.PNG/revision/latest/top-crop/width/360/height/360?cb=20200413224550",
+    },
+    {
+        "id": 2,
+        "first name": "Dwight",
+        "last name": "Schrute",
+        "occupation": "Assistant to the Regional Manager",
+        "image":
+          "https://vignette.wikia.nocookie.net/theoffice/images/c/c5/Dwight_.jpg/revision/latest?cb=20170701082424",
+    },
+    {
+        "id": 3,
+        "first name": "Pam",
+        "last name": "Beesley",
+        "occupation": "Receptionist",
+        "image":
+          "https://cdn.costumewall.com/wp-content/uploads/2018/09/pam-beesly.jpg",
+    },
+    {
+        "id": 4,
+        "first name": "Jim",
+        "last name": "Halpert",
+        "occupation": "Sales",
+        "image":
+          "https://vignette.wikia.nocookie.net/theoffice/images/e/e9/Character_-_JimHalpert.PNG/revision/latest/top-crop/width/360/height/360?cb=20200414162003",
+    },
+    {
+        "id": 5,
+        "first name": "Ryan",
+        "last name": "Howard",
+        "occupation": "Temp",
+        "image":
+          "https://vignette.wikia.nocookie.net/theoffice/images/e/e0/Character_-_RyanHoward.PNG/revision/latest/top-crop/width/360/height/360?cb=20200414174545",
+    },
+    {
+        "id": 6,
+        "first name": "Kevin",
+        "last name": "Malone",
+        "occupation": "Accountant",
+        "image":
+          "https://vignette.wikia.nocookie.net/theoffice/images/b/b2/2009Kevincropped.PNG/revision/latest/top-crop/width/360/height/360?cb=20170701083657",
+    },
+    {
+        "id": 7,
+        "first name": "Toby",
+        "last name": "Flenderson",
+        "occupation": "Human Resources",
+        "image":
+          "https://vignette.wikia.nocookie.net/theoffice/images/5/55/2009TobyCropped.PNG/revision/latest/top-crop/width/360/height/360?cb=20170701082913",
+    },
+    {
+        "id": 8,
+        "first name": "Stanley",
+        "last name": "Hudson",
+        "occupation": "Sales",
+        "image":
+          "https://vignette.wikia.nocookie.net/theoffice/images/2/23/Stanley_Hudson.jpg/revision/latest?cb=20170701085445",
+    },
+    {
+        "id": 9,
+        "first name": "Angela",
+        "last name": "Martin",
+        "occupation": "Accountant",
+        "image":
+          "https://vignette.wikia.nocookie.net/characters/images/0/0b/Angela_Martin.jpg/revision/latest?cb=20151127214225",
+    },
+    {
+      "id": 10,
+      "first name": "Kelly",
+      "last name": "Kapoor",
+      "occupation": "Customer Service",
+      "image":
+        "https://vignette.wikia.nocookie.net/theoffice/images/6/69/Kelly_Kapoor.jpg/revision/latest?cb=20170701090501",
+    }
+  ]
