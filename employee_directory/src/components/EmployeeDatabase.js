@@ -32,6 +32,16 @@ class EmployeeDatabase extends Component {
           order: "desc"
         })
     }
+    const sortLastName = () => {
+      var last1 = office.last[0];
+      var last2 = office.last[1];
+      var n = last1.localeCompare(last2);
+      document.getElementById("demo").innerHTML = n;
+      if (this.state.sorted = "asc"){
+        console.log(last1)
+      }
+      console.log(n);
+    }
 }
 
 
